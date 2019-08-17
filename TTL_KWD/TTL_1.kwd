@@ -1,0 +1,15 @@
+﻿// TTL_1 キーワード定義ファイル
+// CASE=False
+
+call
+else
+elseif
+endif
+execcmnd
+goto
+if
+include
+mpause
+pause
+return
+then

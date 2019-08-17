@@ -1,0 +1,13 @@
+﻿// TTL_2 キーワード定義ファイル
+// CASE=False
+
+break
+continue
+do
+enduntil
+endwhile
+for
+loop
+next
+until
+while
