@@ -115,6 +115,7 @@ sendfile
 sendkcode
 sendln
 sendlnbroadcast
+sendlnmulticast
 sendmulticast
 setbaud
 setdate
@@ -126,9 +127,11 @@ setecho
 setenv
 setexitcode
 setfileattr
+setflowctrl
 setmulticastname
 setpassword
 setrts
+setspeed
 setsync
 settime
 settitle
